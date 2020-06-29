@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#7799"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Tab LAyout"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        android:background="#88ee"
+        android:layout_marginTop="10dp"/>
+
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Lottie Animation"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        android:background="#1188ee"
+        android:layout_marginTop="10dp"/>
+
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Audio recorder"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        android:background="#ff1199"/>
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="text To speech"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        android:background="#ff5588"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Speech to text"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        android:background="#cc5588"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Paypal"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#ffff"
+        android:textAlignment="center"
+        android:background="#111188"
+        android:layout_marginTop="10dp"/>
+
+
+
+
+</LinearLayout>
